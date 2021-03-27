@@ -1,0 +1,27 @@
+{
+  "name": "emergencylink",
+  "version": "1.0.0",
+  "description": "A plugin for Discord ModMail by Dragory that allows getting message links in the DM channal",
+  "main": "./emergencyLink.js",
+  "scripts": {
+    "lint": "eslint --fix ./emergencyLink.js",
+    "format": "prettier --write ./emergencyLink.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkView/MMEmergencyLink.git"
+  },
+  "keywords": [
+    "modmail",
+    "plugin"
+  ],
+  "author": "DarkView",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DarkView/MMEmergencyLink/issues"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "prettier": "^2.2.1"
+  }
+}
