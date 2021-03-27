@@ -1,4 +1,4 @@
-## A plugin for [Dragory's ModMail](https://github.com/dragory/modmailbot) that allows users to get DM message ID's 
+## A plugin for [Dragory's ModMail](https://github.com/dragory/modmailbot) that allows users to get DM message links 
 **Currently on Version 1.0**  
 Plugin written and maintained by [DarkView](https://github.com/DarkView) (Dark#1010 on Discord)  
     
