@@ -15,7 +15,7 @@ You need to restart the bot in order for the plugin to be loaded!
 ### General
 This plugin mainly has one use, that being reporting messages that threaten self-harm or suicide to Discord's Trust and Safety team.  
 To create a ticket for this purpose visit [this page](https://dis.gd/request), select "Report other issue" and then "Self-harm or suicide concern".  
-This is the moment you need the message ID for Discord to take immediate action.
+This is the moment you need the message link for Discord to take immediate action.
 ### Restrictions
 The commands [below](#commands) will only work in thread channels and only on messages that are actually in the DM channel with the user.
 ### Bugs
